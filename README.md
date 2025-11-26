@@ -54,9 +54,16 @@ Estou ativamente buscando minha primeira oportunidade como **Jovem Aprendiz** na
 
 ---
 
+---
+
 ##  Projetos em Destaque
 
 [![Card do Repositório Midnight Indigo](https://github-readme-stats.vercel.app/api/pin/?username=pedromoraespedrosooficial-create&repo=Midnight_Indigo&theme=midnight_purple&show_owner=true)](https://github.com/pedromoraespedrosooficial-create/Midnight_Indigo)
 [![Card do Repositório Smashed Potatoes](https://github-readme-stats.vercel.app/api/pin/?username=pedromoraespedrosooficial-create&repo=Smashed_Potatoes&theme=midnight_purple&show_owner=true)](https://github.com/pedromoraespedrosooficial-create/Smashed_Potatoes)
 
 ---
+
+##  Minhas Estatísticas no GitHub
+
+![Estatísticas de Pedro no GitHub](https://github-readme-stats.vercel.app/api?username=pedromoraespedrosooficial-create&show_icons=true&theme=midnight_purple&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedromoraespedrosooficial-create&layout=compact&theme=midnight_purple)
