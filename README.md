@@ -1,13 +1,13 @@
 # Olá, eu sou o Pedro Henrique! 👋
 ### Estudante de Desenvolvimento de Sistemas | Focado em Backend
 
-Sou um desenvolvedor de 17 anos cursando o Ensino Médio e Técnico em Desenvolvimento de Sistemas na Fundação Bradesco.
+Sou um desenvolvedor de 17 anos cursando o Ensino Médio e Técnico em Desenvolvimento de Sistemas.
 
 Estou ativamente buscando minha primeira oportunidade como **Jovem Aprendiz** na área de tecnologia, com foco em desenvolvimento de software (Backend ou Full Stack). Sou apaixonado por resolver problemas, desde criar APIs RESTful até desenvolver hardware com Arduino.
 
 -  Atualmente estou aprimorando meus projetos full stack com **Python (Flask)** e **Node.js**.
 -  Meu projeto de destaque, o "Chapéu Inteligente com Arduino", recebeu medalha de honra ao mérito por sua relevância social.
--  Como me contatar: **pedrohenriquemoraes0789@gmail.com** ou **pedromoraespedrosooficial@gmail.com**
+-  Como me contatar: **pedromoraespedrosooficial@gmail.com**
 
 ---
 
