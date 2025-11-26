@@ -7,7 +7,7 @@ Estou ativamente buscando minha primeira oportunidade como **Jovem Aprendiz** na
 
 -  Atualmente estou aprimorando meus projetos full stack com **Python (Flask)** e **Node.js**.
 -  Meu projeto de destaque, o "Chapéu Inteligente com Arduino", recebeu medalha de honra ao mérito por sua relevância social.
--  Como me contatar: **pedrohenriquemoraes0789@gmail.com**
+-  Como me contatar: **pedrohenriquemoraes0789@gmail.com** ou **pedromoraespedrosooficial@gmail.com**
 
 ---
 
