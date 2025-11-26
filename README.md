@@ -1,7 +1,7 @@
 # Olá, eu sou o Pedro Henrique! 👋
 ### Estudante de Desenvolvimento de Sistemas | Focado em Backend
 
-Sou um desenvolvedor de 16 anos cursando o Ensino Médio e Técnico em Desenvolvimento de Sistemas na Fundação Bradesco.
+Sou um desenvolvedor de 17 anos cursando o Ensino Médio e Técnico em Desenvolvimento de Sistemas na Fundação Bradesco.
 
 Estou ativamente buscando minha primeira oportunidade como **Jovem Aprendiz** na área de tecnologia, com foco em desenvolvimento de software (Backend ou Full Stack). Sou apaixonado por resolver problemas, desde criar APIs RESTful até desenvolver hardware com Arduino.
 
@@ -56,12 +56,8 @@ Estou ativamente buscando minha primeira oportunidade como **Jovem Aprendiz** na
 
 ##  Projetos em Destaque
 
-**Atenção:** Clique na aba "Repositories" e clique no ícone **📌 Pin** ao lado destes dois projetos para que eles apareçam aqui.
-
 [![Card do Repositório Midnight Indigo](https://github-readme-stats.vercel.app/api/pin/?username=pedromoraespedrosooficial-create&repo=Midnight_Indigo&theme=midnight_purple&show_owner=true)](https://github.com/pedromoraespedrosooficial-create/Midnight_Indigo)
-[![Card do Repositório GlobalWay](https://github-readme-stats.vercel.app/api/pin/?username=pedromoraespedrosooficial-create&repo=GlobalWay&theme=midnight_purple&show_owner=true)](https://github.com/pedromoraespedrosooficial-create/GlobalWay)
-
-*(**Nota:** Se o seu projeto do Chapéu Inteligente estiver no GitHub, substitua o `GlobalWay` por ele!)*
+[![Card do Repositório Smashed Potatoes](https://github-readme-stats.vercel.app/api/pin/?username=pedromoraespedrosooficial-create&repo=Smashed_Potatoes&theme=midnight_purple&show_owner=true)](https://github.com/pedromoraespedrosooficial-create/Smashed_Potatoes)
 
 ---
 
