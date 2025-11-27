@@ -56,12 +56,12 @@ Estou ativamente buscando minha primeira oportunidade como **Jovem Aprendiz** na
 
 ##  Projetos em Destaque
 
-[![Card do Repositório Midnight Indigo](https://github-readme-stats.vercel.app/api/pin/?username=pedromoraespedrosooficial-create&repo=Midnight_Indigo&theme=midnight_purple&show_owner=true)](https://github.com/pedromoraespedrosooficial-create/Midnight_Indigo)
-[![Card do Repositório Smashed Potatoes](https://github-readme-stats.vercel.app/api/pin/?username=pedromoraespedrosooficial-create&repo=Smashed_Potatoes&theme=midnight_purple&show_owner=true)](https://github.com/pedromoraespedrosooficial-create/Smashed_Potatoes)
+*(Estes são os repositórios "fixados" (pinned) no topo do meu perfil)*
 
----
+### 1. [Midnight Indigo](https://github.com/pedromoraespedrosooficial-create/Midnight_Indigo)
+*Plataforma de e-commerce de luxo desenvolvida com Python (Flask), SQLAlchemy e SQL Server. Possui autenticação, painel de admin, sistema de vendedores, carrinho de compras com cupons e recomendações.*
 
-##  Minhas Estatísticas no GitHub
+### 2. [Smashed Potatoes](https://github.com/pedromoraespedrosooficial-create/Smashed_Potatoes)
+*Site de avaliação de filmes e séries inspirado no "Rotten Tomatoes". Desenvolvido com Python (Flask), permite aos usuários verem trailers, notas e avaliações.*
 
-![Estatísticas de Pedro no GitHub](https://github-readme-stats.vercel.app/api?username=pedromoraespedrosooficial-create&show_icons=true&theme=midnight_purple)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedromoraespedrosooficial-create&layout=compact&theme=midnight_purple)
+*(Estou trabalhando para subir o projeto do "Chapéu Inteligente" em breve!)*
