@@ -1,13 +1,13 @@
 # Olá, eu sou o Pedro Henrique! 👋
 ### Estudante de Desenvolvimento de Sistemas | Focado em Backend
 
-Sou um desenvolvedor de 17 anos cursando o Ensino Médio e Técnico em Desenvolvimento de Sistemas.
+Sou um desenvolvedor de 17 anos cursando o Ensino Médio e Técnico em Desenvolvimento de Sistemas na Fundação Bradesco.
 
 Estou ativamente buscando minha primeira oportunidade como **Jovem Aprendiz** na área de tecnologia, com foco em desenvolvimento de software (Backend ou Full Stack). Sou apaixonado por resolver problemas, desde criar APIs RESTful até desenvolver hardware com Arduino.
 
 -  Atualmente estou aprimorando meus projetos full stack com **Python (Flask)** e **Node.js**.
 -  Meu projeto de destaque, o "Chapéu Inteligente com Arduino", recebeu medalha de honra ao mérito por sua relevância social.
--  Como me contatar: **pedromoraespedrosooficial@gmail.com**
+-  Como me contatar: **pedrohenriquemoraes0789@gmail.com**
 
 ---
 
@@ -54,8 +54,6 @@ Estou ativamente buscando minha primeira oportunidade como **Jovem Aprendiz** na
 
 ---
 
----
-
 ##  Projetos em Destaque
 
 [![Card do Repositório Midnight Indigo](https://github-readme-stats.vercel.app/api/pin/?username=pedromoraespedrosooficial-create&repo=Midnight_Indigo&theme=midnight_purple&show_owner=true)](https://github.com/pedromoraespedrosooficial-create/Midnight_Indigo)
@@ -63,7 +61,7 @@ Estou ativamente buscando minha primeira oportunidade como **Jovem Aprendiz** na
 
 ---
 
-##  Minhas Estatísticas no GitHub
+## 📊 Minhas Estatísticas no GitHub
 
-![Estatísticas de Pedro no GitHub](https://github-readme-stats.vercel.app/api?username=pedromoraespedrosooficial-create&show_icons=true&theme=midnight_purple&count_private=true)
+![Estatísticas de Pedro no GitHub](https://github-readme-stats.vercel.app/api?username=pedromoraespedrosooficial-create&show_icons=true&theme=midnight_purple)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedromoraespedrosooficial-create&layout=compact&theme=midnight_purple)
