@@ -61,7 +61,7 @@ Estou ativamente buscando minha primeira oportunidade como **Jovem Aprendiz** na
 
 ---
 
-## 📊 Minhas Estatísticas no GitHub
+##  Minhas Estatísticas no GitHub
 
 ![Estatísticas de Pedro no GitHub](https://github-readme-stats.vercel.app/api?username=pedromoraespedrosooficial-create&show_icons=true&theme=midnight_purple)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedromoraespedrosooficial-create&layout=compact&theme=midnight_purple)
